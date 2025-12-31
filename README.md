@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sontanam V C M Bhavani Sundari</h1>
 
 <h3 align="center">
-  Full Stack Developer | Java & Web Technologies
+  Full Stack Developer
 </h3>
 
 <p align="center">
