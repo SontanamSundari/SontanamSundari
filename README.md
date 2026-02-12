@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sontanam V C M Bhavani Sundari</h1>
 
 <h3 align="center">
-  Full Stack Developer
+  Aspiring Full Stack Developer focused on crafting reliable backend systems and intuitive frontend experiences while solving practical challenges through code.
 </h3>
 
 <p align="center">
@@ -92,11 +92,11 @@ I am a passionate **Full Stack Developer** with hands-on experience in building 
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SontanamSundari&show_icons=true" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SontanamSundari" />
